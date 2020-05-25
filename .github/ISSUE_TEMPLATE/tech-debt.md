@@ -1,6 +1,6 @@
 ---
 name: Tech debt
-about: Track TODOs and etc
+about: Track TODOs, etc.
 title: 'Tech debt: '
 labels: 'tech-debt'
 assignees: ''
