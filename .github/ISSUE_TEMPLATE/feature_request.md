@@ -29,6 +29,7 @@ Does this change impact:
 - [ ] Mobile API
 - [ ] v2 API
 - [ ] GraphQL API
+- [ ] Postman Collection
 - [ ] Spreadsheet uploader
 - [ ] 3Sixty1 Reports
 
