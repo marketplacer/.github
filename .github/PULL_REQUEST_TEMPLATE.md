@@ -14,4 +14,18 @@ The first paragraph of description will show up on #changelog. Replace it with s
 - [ ] Deployed to **[pick an environment name, you clod]**
 - [ ] PR has appropriate labels added (needs-testing, etc.)
 
+**Information Security Requirements:**
+
+Detail how this addresses security requirements identified during the design stage (see the linked issue)
+
+Detail how you have tested the following:
+  * authentication controls
+  * authorisation controls
+  * data and input/output validation controls
+  * session management controls
+  * error and exception handling controls
+
+Verify that you have checked the code for backdoors and other malicious content
+
+
 Resolves #github-issue-number

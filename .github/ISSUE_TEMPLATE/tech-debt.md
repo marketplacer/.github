@@ -24,5 +24,11 @@ e.g. deadlines
 ### optional: What's the risk of doing nothing?
 e.g. it will be harder to extend feature Y in Z direction
 
+### Security requirements
+
+What Information Security Controls are required to be considered as part of fixing this tech debt?
+
+*Refer to the [Threat Modeling introduction](https://app.tettra.co/teams/marketplacer/pages/threat-modelling) and the [Attack Surface Analysis Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html) for guidance on how to assess the relevant information security controls.*
+
 ### optional: References
 Add any other context or tickets relating to the problem here.
