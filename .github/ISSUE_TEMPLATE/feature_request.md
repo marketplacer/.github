@@ -16,10 +16,14 @@ Short & clear description of the proposed solution/feature (the _How_)\*\*
 As a **[marketplace administrator/owner, store/seller, shopper/visitor/end-user, devOps engineer]**, I want **[ability/function (the *What*)]** so that **[outcome (the *Why*)]**.
 
 ---
+### Acceptance criteria
+
+- [ ] should this change include a flipper? if yes, check the following link https://app.tettra.co/teams/marketplacer/pages/adding-a-new-flipper-flag 
 
 ### Screenshots
 
 ### Proposed implementation
+
 
 API spec, @mention people for feedback/discussion.
 
