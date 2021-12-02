@@ -1,37 +1,42 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## 🚀 Feature/enhancement
 
-Short & clear description of the proposed solution/feature (the _How_)\*\*
+Problem we are trying to solve
 
-#### Why build this feature?
+Short & clear description of the proposed solution/feature (the _How_)
+
+### User Stories
 
 As a **[marketplace administrator/owner, store/seller, shopper/visitor/end-user, devOps engineer]**, I want **[ability/function (the *What*)]** so that **[outcome (the *Why*)]**.
 
----
+What options/work arounds have been attempted?
 
-### Screenshots
+---
 
 ### Proposed implementation
 
 API spec, @mention people for feedback/discussion.
 
-Does this change impact:
+#### Platform impact:
 - [ ] M Stores
 - [ ] Multi Stores
-- [ ] Mobile API
 - [ ] v2 API
 - [ ] GraphQL API
-- [ ] Postman Collection
 - [ ] Spreadsheet uploader
-- [ ] 3Sixty1 Reports
+- [ ] M Insights Reports
+- [ ] Umbrella_placer
+- [ ] Cerberus
+- [ ] M Connect
+- [ ] Headless
+- [ ] Connected
+- [ ] Fullstack
+
+#### Customer impact:
+- [ ] Low
+- [ ] Medium 
+- [ ] High
+
+Any medium or high customer impact items need to be added to the relevant Monday roadmap.
+[Read more here](https://app.tettra.co/teams/marketplacer/pages/delivery-processes#header-1k93l-github)
 
 ### Security requirements
 
