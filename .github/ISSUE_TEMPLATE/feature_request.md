@@ -39,6 +39,17 @@ API spec, @mention people for feedback/discussion.
 - [ ] Connected
 - [ ] Fullstack
 
+#### Finance System impact:
+If any of the below are checked, please inform #teammoney
+- [ ] Checkout
+- [ ] Refunds 
+- [ ] Remittance
+- [ ] Tax
+- [ ] Commission
+- [ ] Order Creation
+
+
+
 #### Customer impact:
 - [ ] Low
 - [ ] Medium 
