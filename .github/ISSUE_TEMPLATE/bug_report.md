@@ -34,14 +34,3 @@ Add any other context or tickets relating to the problem here.
 4. Scroll down to ‘….’
 5. See error
 6. Copy & paste the final URL path here
-
-### Optional: Desktop (please complete the following information):
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-### Optional: Smartphone (please complete the following information):
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
