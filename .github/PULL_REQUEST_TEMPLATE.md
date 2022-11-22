@@ -1,27 +1,24 @@
-SET YOUR PR TITLE. A BRANCH NAME IS NOT A GOOD TITLE.
+<!-- Ensure PR title is more descriptive than just the branch name. -->
 
-The first paragraph of description will show up on #changelog. Replace it with something relevant.
+[Description] <!-- The first paragraph will show in #changelog in Slack. -->
 
-<!-- QA SECTION -->
-**Steps to test that this is working:**
+**Resolves:** [Ticket]
 
-<!-- Try to give a numbered list of steps to follow. Include URLs where appropriate, as well as before/after screenshots of what can be expected for visual-specific changes -->
+## Test
 
-**Testing Checklist:**
+**Environment:** [Name]
 
-<!-- Modify this list with whatever makes sense for your PR -->
+1. Visit this
+2. Click that
+3. Should see
+
+[Screenshot]
+
+## Checklist
 
 - [ ] Cross-browser testing
-- [ ] Deployed to **[pick an environment name, you clod]**
+- [ ] Deployed to an environment
 - [ ] PR has appropriate labels added (needs-testing, etc.)
-
-
-<!-- MANDATORY DATA -->
-The following sections are required to be completed before merging your PR. It ensures we are following our release process and meeting our auditability requirements. PLEASE ADD MORE CONTEXT WHERE APPLICABLE. If you would like to learn more have a read of https://app.tettra.co/teams/marketplacer/pages/system-acquisition-and-development-policy and https://app.tettra.co/teams/marketplacer/pages/threat-modelling
-
-
-**Release Checklist:**
-<!-- tick the box to show you thought about it, but give more info if you made changes. -->
 - [ ] Authentication is on point (you are who you say you are)
 - [ ] Authorisation is on point (you are allowed to access this)
 - [ ] Data and input/output validation controls (SQL injection, XSS attacks, file validation, type conversion)
@@ -32,4 +29,5 @@ The following sections are required to be completed before merging your PR. It e
 - [ ] Supporting documentation published. A release is not just pushing a code change, it's also communicating it.
 In-App documentation, Knowledgebase, API Docs, Tettra Docs, Postman Collection, Lucid Charts, and your PM knows what's up.
 
-Resolves #github-issue-number
+**See:** https://app.tettra.co/teams/marketplacer/pages/system-acquisition-and-development-policy
+**See:** https://app.tettra.co/teams/marketplacer/pages/threat-modelling
