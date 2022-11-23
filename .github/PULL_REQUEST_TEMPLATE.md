@@ -2,7 +2,7 @@
 
 [Description] <!-- The first paragraph will show in #changelog in Slack. -->
 
-**Resolves:** [Ticket]
+Resolves [Ticket]
 
 ## Test
 
