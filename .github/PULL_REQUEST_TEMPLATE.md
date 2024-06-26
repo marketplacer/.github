@@ -26,7 +26,7 @@ Resolves [Ticket]
 - [ ] Any schema changes have been notified to the data platform team in #data-change-notifications on slack.
 - [ ] Aware of the downstream/upstream effects this change will have. The Marketplacer ecosystem is beyond complicated and now has many system dependencies.  Take the time to understand how your change interacts with them and speak to some teams if you need to (MConnect, Cerberus, Graphql, API V2, Headless, Connected, Fullstack, Minsights, Umbrella_Placer, Spreadsheet Uploaders, MStores, MultiStores, and more!)
 - [ ] Supporting documentation published. A release is not just pushing a code change, it's also communicating it.
-In-App documentation, Knowledgebase, API Docs, Tettra Docs, Postman Collection, Lucid Charts, and your PM knows what's up.
+In-App documentation, Knowledgebase, API Docs, Confluence Docs, Postman Collection, Lucid Charts, and your PM knows what's up.
 
-**See:** https://app.tettra.co/teams/marketplacer/pages/system-acquisition-and-development-policy
-**See:** https://app.tettra.co/teams/marketplacer/pages/threat-modelling
+**See:** https://marketplacer.atlassian.net/wiki/spaces/PT/pages/46170530/System+Acquisition+and+Development+Policy
+**See:** https://marketplacer.atlassian.net/wiki/spaces/PT/pages/14156267/threat-modelling
