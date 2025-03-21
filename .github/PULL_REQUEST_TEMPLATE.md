@@ -16,6 +16,7 @@ Resolves [Ticket]
 
 ## Checklist
 
+- [ ] Code has production-ready logging
 - [ ] Deployed to an environment
 - [ ] PR has appropriate labels added (needs-testing, etc.)
 - [ ] Authentication is on point (you are who you say you are)
